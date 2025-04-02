@@ -11,7 +11,7 @@ The main requirements are listed below:
 * matplotlib
 * Keras
 * Pandas
-# The description of the pFKhib source
+# The description of the pFKcr source
 * after_cd_hit.ipynb
   
   The code is used for turning FASTA format sequences after being deredundant by CD-HIT into CSP (10,10) peptides.
